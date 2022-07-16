@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54b69f0a-9567-40a6-a254-3e73944952ab" name="Changes" comment="WIP">
+      <change afterPath="$PROJECT_DIR$/.idea/PowerBuffGirls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackaton/powerbuffgirls/servlets/PageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/6388967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/fifth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/first-one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/first.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/fourth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/pic5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/top-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/fifth-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/first-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/fourth-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/second-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/third-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hackaton/powerbuffgirls/servlets/PageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/WEB-INF/classes/com/hackaton/powerbuffgirls/servlets/PageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/6388967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/fifth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/first-one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/first.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/fourth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/pic5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/images/top-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/videos/fifth-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/videos/first-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/videos/fourth-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/videos/second-video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/powerBuffGirls/videos/third-video.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Byt1aIenrPQXfvQiPGIIItEbNQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/samuel.santos/Desktop/hackaton/PowerBuffGirls/com/hackaton/powerbuffgirls/src/main/webapp"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com/hackaton/powerbuffgirls/src/main/webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b69f0a-9567-40a6-a254-3e73944952ab" name="Changes" comment="" />
+      <created>1657889937211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657889937211</updated>
+    </task>
+    <task id="LOCAL-00001" summary="WIP">
+      <created>1658010868988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658010868988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WIP">
+      <created>1658011038076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011038076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="WIP">
+      <created>1658011134701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011134701</updated>
+    </task>
+    <task id="LOCAL-00004" summary="WIP">
+      <created>1658011581316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011581316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="WIP">
+      <created>1658011643095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011643095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="WIP">
+      <created>1658011823570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011823570</updated>
+    </task>
+    <task id="LOCAL-00007" summary="WIP">
+      <created>1658011904329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658011904329</updated>
+    </task>
+    <task id="LOCAL-00008" summary="WIP">
+      <created>1658012026916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658012026916</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
+  </component>
+</project>

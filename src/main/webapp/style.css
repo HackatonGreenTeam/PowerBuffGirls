@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #23424F;
+    background-size: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#title {
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 10% 100% 10%;
+}
+
+
+.container{
+    width:80%;
+    margin: 80px auto;
+    background-image: url(/images/back.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+.main-text{
+    padding: 3% 15% 3%;
+}
+
+.container .title{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 60px 0;
+    color: whitesmoke;
+    font-size: 1.8rem;
+    text-align: center;
+    line-height:2;
+}
+.page-text{
+    padding: 60px 0;
+    color: whitesmoke;
+    font-size: 1rem;
+    text-align: justify;
+    line-height:2;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.col{
+    flex-basis: 50%;
+    min-width: 250px;
+}
+
+.feature-img{
+    width:83%;
+    margin: auto;
+    position: relative;
+    border-radius: 6px;
+    overflow:hidden;
+}
+.small-img-row{
+    display: flex;
+    background: #efefef;
+    margin: 20px 0;
+    align-items: center;
+    border-radius: 6px;
+    overflow: hidden;
+    width: 85%;
+
+}
+
+.small-img{
+    position: relative;
+}
+.small-img img{
+    width: 150px;
+}
+.small-img-row p{
+    margin-left: 20px;
+    color: #707070;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.play-btn{
+    width: 60px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50% );
+    cursor: pointer;
+}
+.small-img .play-btn{
+    width:35px;
+}
+.video-player{
+    width:80%;
+     position: absolute;
+    left: 50%;
+    top: 200%;
+    transform: translate(-50%, -50% );
+    display:none;
+}
+video:focus{
+    outline:none;
+}
+.close-btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    cursor: pointer;
+}
