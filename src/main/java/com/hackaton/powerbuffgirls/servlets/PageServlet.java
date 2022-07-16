@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(name = "PageServlet", urlPatterns = "/PowerBuffGirls/deopressing")
+@WebServlet(name = "PageServlet", urlPatterns = "/deopressing")
 public class PageServlet extends HttpServlet {
 
     @Override
