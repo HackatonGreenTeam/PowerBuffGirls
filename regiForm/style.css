@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+
+
+.welcome-section {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #000;
+    overflow: hidden;
+    text-align: center;
+}
+
+.fly-in-text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+
+    list-style: none;
+  
+}
+
+.fly-in-text li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 5em;
+    color: white;
+    opacity: 1;
+    transition: all 10s ease;  
+}
+
+.fly-in-text li:nth-child(17){
+   margin-right: 0;
+}
+
+.enter-button{
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    text-align: center;
+    font-size: 2em;
+    text-decoration: none;
+    color: #ef6eae;
+    opacity: 1;
+    margin-top: 30px;
+    transition: all 3s ease ;
+    
+     
+    animation: animateHeart 2.1s infinite 4s;
+    
+}
+
+@keyframes animateHeart {
+    0% {
+      transform:  scale(0.8);
+    }
+    5% {
+      transform:  scale(0.9);
+    }
+    10% {
+      transform: scale(0.8);
+    }
+    15% {
+      transform:  scale(1);
+    }
+    50% {
+      transform: scale(0.8);
+    }
+    100% {
+      transform:  scale(0.8);
+    }
+  }
+.enter-button:hover {
+  animation: pulse 1s;
+  box-shadow: 1 0 0 2em transparent;
+}
+
+@keyframes pulse {
+    0%   { box-shadow: 0 0 0 rgb(112, 80, 80);background-color: rgba(112, 80, 80, 0.378) ; }
+    50%  { box-shadow: 0 0 17px#ef6eae;;background-color: rgba(112, 80, 80, 0.418) ; }
+    100% { box-shadow: 0 0 0 #ef6eae;;background-color: rgba(112, 80, 80, 0.491) ; }
+}
+
+.content-hidden .fly-in-text li{
+    opacity: 0;
+}
+.content-hidden .fly-in-text li:nth-child(1){transform: translate3d(-85px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(2){transform: translate3d(-750px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(3){transform: translate3d(-65px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(4){transform: translate3d(-45px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(5){transform: translate3d(-35px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(6){transform: translate3d(-25px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(7){transform: translate3d(-15px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(8){transform: translate3d(-5px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(9){transform: translate3d(5px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(10){transform: translate3d(15px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(11){transform: translate3d(25px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(12){transform: translate3d(35px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(13){transform: translate3d(45px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(14){transform: translate3d(55px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(15){transform: translate3d(65px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(16){transform: translate3d(75px, 0, 0);}
+.content-hidden .fly-in-text li:nth-child(17){transform: translate3d(85px, 0, 0);}
+
+#second-div{
+    background-image: url(https://lakhanipilgrimage.com/img/slide-general.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+
+#photo{
+    border-top-left-radius: .3rem; border-top-right-radius: .3rem;
+}
